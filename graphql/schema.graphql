@@ -1,0 +1,9 @@
+type Query{
+    name: String!
+}
+
+type Movies{
+    name: String!
+    age: Number!
+    gender: String
+}
